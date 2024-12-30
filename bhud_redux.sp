@@ -23,7 +23,7 @@ StringMap EntityMaxes;
 
 public Plugin myinfo = {
 	name = "BossHud",
-	author = "AntiTeal",
+	author = "ZeddY^, AntiTeal",
 	description = "",
 	version = PLUGIN_VERSION,
 	url = "antiteal.com"
