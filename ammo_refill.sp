@@ -8,7 +8,7 @@
 public Plugin myinfo =
 {
 	name = "[ZR] Reserve Ammo Refill",
-	author = "Strellic",
+	author = "ZeddY^, Strellic",
 	description = "Refills a player's reserve ammo as they shoot.",
 	version = PLUGIN_VERSION,
 	url = "http://steamcommunity.com/id/strellic"
