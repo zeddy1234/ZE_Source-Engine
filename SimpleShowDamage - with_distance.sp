@@ -46,7 +46,7 @@ public Plugin myinfo =
 	name		= "Show Damage [Multi methods]",
 	version		= "2.0.1",
 	description	= "Show damage in hint message, HUD and Particle",
-	author		= "TheBΦ$$♚#2967 (rewritten by Grey83) + Strellic",
+	author		= "Zeddy, TheBΦ$$♚#2967 (rewritten by Grey83) + Strellic",
 	url			= "http://sourcemod.net"
 };
 
