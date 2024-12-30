@@ -29,7 +29,7 @@ Button g_SetupButton[MAXPLAYERS+1];
 
 public Plugin myinfo = {
 	name = "AdminRoom",
-	author = "Strellic",
+	author = "ZeddY^, Strellic",
 	description = "A plugin that allows admins to teleport to admin rooms and change levels all via a menu.",
 	version = PLUGIN_VERSION
 };
