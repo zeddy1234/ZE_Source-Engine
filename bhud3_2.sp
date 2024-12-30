@@ -25,7 +25,7 @@ StringMap EntityMaxes;
 
 public Plugin myinfo = {
 	name = "BossHud + Hit Markers",
-	author = "AntiTeal, Cruze",
+	author = "ZeddY^, AntiTeal, Cruze",
 	description = "",
 	version = PLUGIN_VERSION,
 	url = "antiteal.com | http://steamcommunity.com/profiles/76561198132924835"
