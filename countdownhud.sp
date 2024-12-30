@@ -12,7 +12,7 @@ Handle timerHandle, HudSync;
 public Plugin myinfo = 
 {
 	name = "Countdown HUD",
-	author = "AntiTeal",
+	author = "ZeddY^, AntiTeal",
 	description = "Countdown timers based on messages from maps.",
 	version = PLUGIN_VERSION,
 	url = "http://antiteal.com"
