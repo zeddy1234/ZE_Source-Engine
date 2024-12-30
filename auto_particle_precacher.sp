@@ -7,7 +7,7 @@
 public Plugin myinfo = 
 { 
     name = "CS:GO particle auto-precacher", 
-    author = "Copypaste Slim", 
+    author = "ZeddY^, Copypaste Slim", 
     description = "Precaches particle systems in the same manner as the per-map manifest system in older Source titles.", 
     version = "1.2.4", 
     url = "http://a.b.c.d.e.f.g.h.is.a.valid.url.com/" 
